@@ -11,7 +11,7 @@ Go to the project file located in your pc or laptop ,
 open the project folder after  that you can see manage.py file,
 then right-click on your pc select the option OPEN TERMINAL HERE,
 after the termian open add some command such as( python manage.py runserver ) That's the command to open the project,
-after thet the terminal show the ip address just copy and past in your browser after thet your project will ssuccessfully run on your browser
+after thet the terminal show the ip address just copy and past in your browser after thet your project will successfully run on your browser
 
 # ERROR-FIX 
 ( python manage.py runserver ) That's the command to open the project,
