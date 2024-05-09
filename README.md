@@ -2,8 +2,8 @@
 BHC project on III Bvoc it M.Sankaranarayanan 215915143
 
 # ABOUT MY PROJECT
-That’s my 3-year project and pycharm is the platform to create this project 
-and i used python and django framework to create this project ,
+That’s my 3-year project pycharm is the platform to create this project, 
+I used python html and django framework to create this project ,
 I’m not specifies any user name OR password for user log-in , You can create your own username and password in register page
 
 # HOW TO OPEN THE PROJECT
