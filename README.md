@@ -1,5 +1,5 @@
 # BUS-BOOKING-IN-PYTHON
-BHC project on III Bvoc it M.Sankaranarayanan 215915143
+Bisop Heber College project on III Bvoc it M.Sankaranarayanan 215915143
 
 # ABOUT MY PROJECT
 That’s my 3-year project pycharm is the platform to create this project, 
